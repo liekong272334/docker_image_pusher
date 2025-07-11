@@ -1,3 +1,3 @@
 nginx
 liekong272334/liekong:latest
-python:alpine3.19
+python:alpine3.10
